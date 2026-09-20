@@ -1,0 +1,14 @@
+DCT CNN RESULTS — B4
+============================================================
+Balanced Accuracy : 0.415828
+Precision         : 0.001286
+Recall            : 0.050847
+Specificity       : 0.780809
+F1                : 0.002508
+
+Confusion Matrix
+TN=24900, FP=6990, FN=168, TP=9
+
+Training time: 1107.90 sec
+Inference time: 282.48 sec
+Parameters: 18993
